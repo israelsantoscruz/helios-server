@@ -9,6 +9,7 @@ RUN \
     python-virtualenv \
     python-ldap \
     python-dev \
+    libpq-dev \
     libsasl2-dev \
     libldap2-dev \
     apache2 \
